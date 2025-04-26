@@ -50,8 +50,9 @@ I approach each project by analyzing its use cases, fundamentals, and connection
 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/eugene-mcgrath-550b4897)
+- [NewWorldCryptos.mn.co](https://NewWorldCryptos.mn.co)
+- [Patreon.com/NewWorldCryptos](https://patreon.com/NewWorldCryptos)
 - [X (Twitter) - @CryptoMachineG](https://x.com/CryptoMachineG)
-- [GitHub](https://github.com/cplklegg)
 
 I’m open to collaborations, dev opportunities, and conversations about building the decentralized future.
 
