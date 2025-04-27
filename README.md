@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Eugene McGrath
 
-**Aspiring Blockchain Developer | Blockchain Researcher | Co-Founder of New World Cryptos**
+**Aspiring Blockchain Developer | Blockchain Educator | Co-Founder of New World Cryptos**
 
 ---
 
