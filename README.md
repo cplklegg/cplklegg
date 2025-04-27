@@ -38,8 +38,8 @@ Cryptocurrency Market Fundamentals & Metrics – Blockgeeks
 New World Cryptos
 An educational and consulting platform focused on freedom, blockchain technology, and cryptocurrency empowerment.
 
-Blockchain Learning Journey
-A repository documenting my learning and development as I work toward becoming a Web3 developer.
+// Blockchain Learning Journey
+// A repository documenting my learning and development as I work toward becoming a Web3 developer.
 
 📰 Publications
 The WeeklyWEB3Walkthru: A newsletter featuring market metrics, charts, and regulatory updates in the blockchain space.
