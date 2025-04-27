@@ -5,44 +5,37 @@
 ---
 
 ## 🧠 About Me
-I'm a dedicated blockchain educator, consultant, and aspiring developer with a robust foundation in computer science, Linux systems, and decentralized technologies. My journey began with an A.S. in Web Design and experience in phone operations in the U.S. Army. Since then, I've transitioned from traditional roles in security and manufacturing to the forefront of Web3 innovation.
 
-In 2021, my partner and I founded New World Cryptos, a trademarked Private Membership Association (PMA) focused on blockchain education, cryptocurrency consulting, and precious metals. Our mission is to empower individuals with knowledge and tools to navigate the decentralized world confidently.
+I’m a blockchain educator, aspiring researcher, and developer focused on advancing decentralized technologies and financial freedom.
 
-🛠️ Technical Skills
-Languages & Frameworks: JavaScript, Solidity, HTML5/CSS3, SQL/MySQL
+As Co-Founder of **New World Cryptos**, I lead blockchain education initiatives, create community resources, and advocate for responsible crypto adoption. I publish **The WeeklyWEB3Walkthru**, a newsletter tracking Bitcoin metrics, altcoin trends, regulatory developments, and emerging blockchain ecosystems.
 
-Blockchain Development: Smart Contracts, DeFi, Consensus Mechanisms, Security
+Currently, I am expanding my research platform through **Patreon**, where I will release in-depth blockchain research reports, token analysis, and educational guides. I actively develop my technical skills through GitHub projects, practicing **Solidity**, **Hardhat**, **Foundry**, and blockchain application development.
 
-Tools & Platforms: Linux (Fedora expert), Vim, Git/GitHub, Hardhat, Foundry, Remix, Visual Studio Code
+My research philosophy centers on fundamentals — real-world use cases, tokenomics, institutional partnerships, and macroeconomic factors — rather than hype or price speculation. I believe in delivering actionable insights backed by data, on-chain metrics, and Web3-native sources.
 
-Certifications:
+---
 
-Eat The Blocks Bootcamp 
+## 📝 Publications
+- **The WeeklyWEB3Walkthru** – Blockchain newsletter covering Bitcoin trends, altcoin insights, and regulatory updates.
+- **Patreon Research Series** *(Coming Soon)* – Deep-dive blockchain research reports and sector analysis.
 
-Dapp University Mentorship Program (In Progress)
+---
 
-DeFi 101 & DeFi Crash Course – Blockgeeks
+## 🚀 Projects
+- **New World Cryptos (Blockchain Education Site)** – Building blockchain literacy through community education and consulting.
+- **Newsletter Publishing (The WeeklyWEB3Walkthru)** – Weekly Web3 trends, metrics, and news analysis.
+- **Patreon Research Launch (Coming Soon)** – Research hub for blockchain education and investment strategy.
+- **Technical Development (GitHub Builds)** – Smart contract programming, DApp experiments, and Solidity learning projects.
 
-Security Token Offering Master Course – Blockgeeks
+---
 
-Chain Analysis Tools, AML, Virtual Currency Regulations – Blockgeeks
+## 📊 Crypto Market Analysis
+- **Real World Asset (RWA) Sector Focus** – Analysis of RWA tokens (e.g., ONDO) based on fundamentals and institutional backing.
+- **High-Risk/High-Reward Project Assessments** – Observations on volatile projects (e.g., OM/Mantra) using a fundamentals-based risk/reward lens.
+- **Macro Market Trend Analysis** – Tracking Bitcoin dominance, Federal Reserve policy impacts, and market cycle behavior.
 
-Hyperledger Crash Course – Blockgeeks
-
-ETH101, ICOs/STOs & Tokenization – Blockgeeks
-
-Cryptocurrency Market Fundamentals & Metrics – Blockgeeks
-
-📂 Featured Projects
-New World Cryptos
-An educational and consulting platform focused on freedom, blockchain technology, and cryptocurrency empowerment.
-
-📰 Publications
-The WeeklyWEB3Walkthru: A newsletter featuring market metrics, charts, and regulatory updates in the blockchain space.
-
-📈 Crypto Market Analysis
-I approach each project by analyzing its use cases, fundamentals, and connections with both legacy and emerging crypto businesses. For instance, I view ONDO as a strong medium to long-term play in the RWA sector due to its solid fundamentals and backing by BlackRock. Conversely, while OM (Mantra) showed promising data analytics, recent events have highlighted its high-risk nature. I prioritize data-driven insights and real-world connections over hype.
+---
 
 📫 Let's Connect
 
@@ -50,6 +43,10 @@ I approach each project by analyzing its use cases, fundamentals, and connection
 - [NewWorldCryptos.mn.co](https://NewWorldCryptos.mn.co)
 - [Patreon.com/NewWorldCryptos](https://patreon.com/NewWorldCryptos)
 - [X (Twitter) - @CryptoMachineG](https://x.com/CryptoMachineG)
+
+--- 
+
+**Always learning. Always building. Always working toward a decentralized future.**
 
 I’m open to collaborations, dev opportunities, and conversations about building the decentralized future.
 
