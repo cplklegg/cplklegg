@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Eugene McGrath
 
-**Aspiring Blockchain Developer | Blockchain Educator | Co-Founder of New World Cryptos**
+**Blockchain Developer | Blockchain Educator | Co-Founder of New World Cryptos**
 
 ---
 
 ## 🧠 About Me
 
-I’m a blockchain educator, aspiring researcher, and developer focused on advancing decentralized technologies and financial freedom.
+I’m a blockchain educator, researcher, and developer focused on advancing decentralized technologies and financial freedom.
 
 As Co-Founder of **New World Cryptos**, I lead blockchain education initiatives, create community resources, and advocate for responsible crypto adoption. I publish **The WeeklyWEB3Walkthru**, a newsletter tracking Bitcoin metrics, altcoin trends, regulatory developments, and emerging blockchain ecosystems.
 
@@ -40,10 +40,10 @@ My research philosophy centers on fundamentals — real-world use cases, tokenom
 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/eugene-mcgrath-550b4897)
-- [NewWorldCryptos.mn.co](https://NewWorldCryptos.mn.co)
-- [Patreon.com/NewWorldCryptos](https://patreon.com/NewWorldCryptos)
 - [X (Twitter) - @CryptoMachineG](https://x.com/CryptoMachineG)
-
+- [Patreon.com/NewWorldCryptos](https://patreon.com/NewWorldCryptos)
+- [NewWorldCryptos.mn.co](https://NewWorldCryptos.mn.co)
+  
 --- 
 
 **Always learning. Always building. Always working toward a decentralized future.**
