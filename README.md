@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Eugene McGrath
 
-**Blockchain Developer | Blockchain Educator | Co-Founder of New World Cryptos**
+** Blockchain Developer | Crypto Educator | Co-Founder of New World Cryptos | U.S. Army Veteran **
 
 ---
 
