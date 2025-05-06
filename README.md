@@ -25,8 +25,8 @@ My research philosophy centers on fundamentals — real-world use cases, tokenom
 ## 🚀 Projects
 - **New World Cryptos (Blockchain Education Site)** – Building blockchain literacy through community education and consulting.
 - **Newsletter Publishing (The WeeklyWEB3Walkthru)** – Weekly Web3 trends, metrics, and news analysis.
-- **Patreon Research Launch (Coming Soon)** – Research hub for blockchain education and investment strategy.
 - **Technical Development (GitHub Builds)** – Smart contract programming, DApp experiments, and Solidity learning projects.
+- **Patreon Research Launch (Coming Soon)** – Research hub for blockchain education and investment strategy.
 
 ---
 
