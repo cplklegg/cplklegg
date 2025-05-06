@@ -41,9 +41,8 @@ My research philosophy centers on fundamentals — real-world use cases, tokenom
 
 - [LinkedIn](https://www.linkedin.com/in/eugene-mcgrath-550b4897)
 - [X (Twitter) - @CryptoMachineG](https://x.com/CryptoMachineG)
-- [Patreon.com/NewWorldCryptos](https://patreon.com/NewWorldCryptos)
 - [NewWorldCryptos.mn.co](https://NewWorldCryptos.mn.co)
-  
+- [Patreon.com/NewWorldCryptos](https://patreon.com/NewWorldCryptos)
 --- 
 
 **Always learning. Always building. Always working toward a decentralized future.**
