@@ -18,7 +18,7 @@ My research philosophy centers on fundamentals — real-world use cases, tokenom
 
 ## 📝 Publications
 - **The WeeklyWEB3Walkthru** – Blockchain newsletter covering Bitcoin trends, altcoin insights, and regulatory updates.
-- **Patreon Research Series** *(Coming Soon)* – Deep-dive blockchain research reports and sector analysis.
+<!-- - **Patreon Research Series** *(Coming Soon)* – Deep-dive blockchain research reports and sector analysis. -->
 
 ---
 
@@ -26,7 +26,7 @@ My research philosophy centers on fundamentals — real-world use cases, tokenom
 - **New World Cryptos (Blockchain Education Site)** – Building blockchain literacy through community education and consulting.
 - **Newsletter Publishing (The WeeklyWEB3Walkthru)** – Weekly Web3 trends, metrics, and news analysis.
 - **Technical Development (GitHub Builds)** – Smart contract programming, DApp experiments, and Solidity learning projects.
-- **Patreon Research Launch (Coming Soon)** – Research hub for blockchain education and investment strategy.
+<!-- - **Patreon Research Launch (Coming Soon)** – Research hub for blockchain education and investment strategy. -->
 
 ---
 
@@ -42,7 +42,7 @@ My research philosophy centers on fundamentals — real-world use cases, tokenom
 - [LinkedIn](https://www.linkedin.com/in/eugene-mcgrath-550b4897)
 - [X (Twitter) - @CryptoMachineG](https://x.com/CryptoMachineG)
 - [NewWorldCryptos.mn.co](https://NewWorldCryptos.mn.co)
-- [Patreon.com/NewWorldCryptos](https://patreon.com/NewWorldCryptos)
+<!-- - [Patreon.com/NewWorldCryptos](https://patreon.com/NewWorldCryptos) -->
 
 --- 
 
