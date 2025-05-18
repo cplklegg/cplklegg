@@ -18,6 +18,7 @@ My research philosophy centers on fundamentals — real-world use cases, tokenom
 
 ## 📝 Publications
 - **The WeeklyWEB3Walkthru** – Blockchain newsletter covering Bitcoin trends, altcoin insights, and regulatory updates.
+- **Ghost is coming soon.**
 <!-- - **Patreon Research Series** *(Coming Soon)* – Deep-dive blockchain research reports and sector analysis. -->
 
 ---
