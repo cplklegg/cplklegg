@@ -18,7 +18,7 @@ My research philosophy centers on fundamentals — real-world use cases, tokenom
 
 ## 📝 Publications
 - **The WeeklyWEB3Walkthru** – Blockchain newsletter covering Bitcoin trends, altcoin insights, and regulatory updates.
-- **Ghost is coming soon.** 
+<!-- - **Ghost is coming soon.** -->
 <!-- - **Patreon Research Series** *(Coming Soon)* – Deep-dive blockchain research reports and sector analysis. -->
 
 ---
@@ -43,7 +43,6 @@ My research philosophy centers on fundamentals — real-world use cases, tokenom
 - [LinkedIn](https://www.linkedin.com/in/eugene-mcgrath-550b4897)
 - [X (Twitter) - @CryptoMachineG](https://x.com/CryptoMachineG)
 - [NewWorldCryptos.mn.co](https://NewWorldCryptos.mn.co)
-<!-- - [Patreon.com/NewWorldCryptos](https://patreon.com/NewWorldCryptos) -->
 
 --- 
 
