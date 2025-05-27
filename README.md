@@ -1,33 +1,30 @@
 ## 👋 Hi, I'm Eugene McGrath
-
-** Blockchain Developer | Crypto Educator | Co-Founder of New World Cryptos | U.S. Army Veteran **
+** Blockchain Developer | Educator | Consultant | Researcher | Co-Founder & Co-CEO of New World Cryptos | U.S. Army Veteran **
 
 ---
 
 ## 🧠 About Me
 
-I’m a blockchain educator, researcher, and developer focused on advancing decentralized technologies and financial freedom.
-
-As Co-Founder of **New World Cryptos**, I lead blockchain education initiatives, create community resources, and advocate for responsible crypto adoption. I publish **The WeeklyWEB3Walkthru**, a newsletter tracking Bitcoin metrics, altcoin trends, regulatory developments, and emerging blockchain ecosystems.
-
-Currently, I am expanding my research platform through **Patreon**, where I will release in-depth blockchain research reports, token analysis, and educational guides. I actively develop my technical skills through GitHub projects, practicing **Solidity**, **Hardhat**, **Foundry**, and blockchain application development.
-
-My research philosophy centers on fundamentals — real-world use cases, tokenomics, institutional partnerships, and macroeconomic factors — rather than hype or price speculation. I believe in delivering actionable insights backed by data, on-chain metrics, and Web3-native sources.
+I'm a blockchain developer, educator, consultant, and researcher focused on advancing decentralized technologies, smart contract development, and financial sovereignty.
+As Co-Founder and Co-CEO of New World Cryptos — founded in 2022 and a registered USPTO trademark as of 2024 — I lead a dual-platform initiative dedicated to blockchain education, decentralized infrastructure, and sovereign empowerment.
+Our original site, NewWorldCryptos.com, is a community education and consulting hub (currently paused while I complete advanced blockchain studies).
+Our latest addition, New World Cryptos Journal, is a self-hosted Ghost publication for blockchain research, dev logs, and crypto intelligence built for the Web3 era.
+I work hands-on with Solidity, Hardhat, Foundry, and related tools to develop and test smart contracts, while also publishing insights that blend code, research, and macro-level analysis.
 
 ---
 
-## 📝 Publications
-- **The WeeklyWEB3Walkthru** – Blockchain newsletter covering Bitcoin trends, altcoin insights, and regulatory updates.
-<!-- - **Ghost is coming soon.** -->
-<!-- - **Patreon Research Series** *(Coming Soon)* – Deep-dive blockchain research reports and sector analysis. -->
+## 📚 Current Focus
+• Publishing dev logs, DeFi research, and token analysis at newworldcryptos.io
+• Building Solidity-based projects (ERC-20/721 tokens, DApps, protocol logic)
+• Exploring macroeconomic shifts, governance models, and RWA/token utility
+• Preparing to relaunch newworldcryptos.com — our paused consulting and onboarding hub — after completing advanced blockchain studies
 
 ---
 
 ## 🚀 Projects
-- **New World Cryptos (Blockchain Education Site)** – Building blockchain literacy through community education and consulting.
-- **Newsletter Publishing (The WeeklyWEB3Walkthru)** – Weekly Web3 trends, metrics, and news analysis.
-- **Technical Development (GitHub Builds)** – Smart contract programming, DApp experiments, and Solidity learning projects.
-<!-- - **Patreon Research Launch (Coming Soon)** – Research hub for blockchain education and investment strategy. -->
+• 🧠 New World Cryptos Journal — Blockchain research, dev logs, and sovereign insights
+• 🌐 New World Cryptos — Community education, Web3 consulting, and sovereign onboarding
+• 💻 GitHub Dev Work — Smart contract builds, Solidity experiments, and Web3 infrastructure testing
 
 ---
 
@@ -38,11 +35,17 @@ My research philosophy centers on fundamentals — real-world use cases, tokenom
 
 ---
 
-📫 Let's Connect
+## 🔍 Research Philosophy
+I prioritize fundamentals over hype — focusing on utility, tokenomics, institutional movement, and on-chain metrics to uncover real signal.
 
-- [LinkedIn](https://www.linkedin.com/in/eugene-mcgrath-550b4897)
-- [X (Twitter) - @CryptoMachineG](https://x.com/CryptoMachineG)
-- [NewWorldCryptos.mn.co](https://NewWorldCryptos.mn.co)
+---
+
+📫 Let’s Connect
+• 📰 Visit the Journal – NewWorldCryptos.io
+• 🏛️ Our Community Site – NewWorldCryptos.com
+• 💼 LinkedIn – Eugene McGrath
+• 🐦 X (Twitter) – @CryptoMachineG
+• 🔗 Linktree – All Links & Projects
 
 --- 
 
@@ -53,4 +56,3 @@ I’m open to collaborations, dev opportunities, and conversations about buildin
 ---
 
 ![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cplklegg&show_icons=true&theme=radical)
-
