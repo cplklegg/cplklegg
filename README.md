@@ -14,17 +14,17 @@ I work hands-on with Solidity, Hardhat, Foundry, and related tools to develop an
 ---
 
 ## 📚 Current Focus
-- **Publishing dev logs, DeFi research, and token analysis at newworldcryptos.io
-- **Building Solidity-based projects (ERC-20/721 tokens, DApps, protocol logic)
-- **Exploring macroeconomic shifts, governance models, and RWA/token utility
-- **Preparing to relaunch newworldcryptos.com — our paused consulting and onboarding hub — after completing advanced blockchain studies
+- Publishing dev logs, DeFi research, and token analysis at newworldcryptos.io
+- Building Solidity-based projects (ERC-20/721 tokens, DApps, protocol logic)
+- Exploring macroeconomic shifts, governance models, and RWA/token utility
+- Preparing to relaunch newworldcryptos.com — our paused consulting and onboarding hub — after completing advanced blockchain studies
 
 ---
 
 ## 🚀 Projects
-- **🧠 New World Cryptos Journal — Blockchain research, dev logs, and sovereign insights
-- **🌐 New World Cryptos — Community education, Web3 consulting, and sovereign onboarding
-- **💻 GitHub Dev Work — Smart contract builds, Solidity experiments, and Web3 infrastructure testing
+- 🧠 New World Cryptos Journal — Blockchain research, dev logs, and sovereign insights
+- 🌐 New World Cryptos — Community education, Web3 consulting, and sovereign onboarding
+- 💻 GitHub Dev Work — Smart contract builds, Solidity experiments, and Web3 infrastructure testing
 
 ---
 
